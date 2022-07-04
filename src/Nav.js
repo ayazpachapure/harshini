@@ -29,7 +29,7 @@ function Nav(){
 
       <Link to="/news" className="text"
       style={{padding:"0 22px 0 25px", borderRight:"1px solid", lineHeight:2,borderRightColor:"white",marginRight: "17px"}}> NewsLetter </Link>
-      <div>
+      <div style={{fontSize:"30px"}}>
       <a href="#" className="fa fa-facebook"></a>
       <a href="#" className="fa fa-twitter"></a>
       <a href="#" class="fa fa-instagram"></a>
