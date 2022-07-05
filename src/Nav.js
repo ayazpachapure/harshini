@@ -7,14 +7,22 @@ import Works from "./Works";
 import {Link} from 'react-router-dom';
 import Home from "./Home";
 import './Nav.css';
+import logo from "./Logo.jpg"
+
 
 
 function Nav(){
    return(
       <nav className="navigation">
 
-      <div className="logo font" style={{marginLeft:"18px"}}>    
-      <Link to="/" style={{fontSize:"35px", lineHeight:"25px", fontFamily:"font-family: 'Cormorant Garamond', serif;",color:"white",textDecoration:"none",textAlign:"center"}}>HARSHINI</Link>
+      <div className="logo font" style={{marginLeft:"18px"}}> 
+       
+       <img src={logo} style={{height:"50px",borderRadius:"16px"}}/>
+
+
+
+
+      <Link to="/" style={{fontSize:"35px", lineHeight:"25px", fontFamily:"font-family: 'Cormorant Garamond', serif;",color:"white",textDecoration:"none",textAlign:"center",position:"absolute",bottom:"2px",marginLeft:"80px",bottom:"11px"}}>HARSHINI</Link>
       </div>
 
       <div className="nav">
