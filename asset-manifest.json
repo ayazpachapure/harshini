@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/harshini/static/css/main.3c9d3d92.css",
+    "main.js": "/harshini/static/js/main.76a54857.js",
+    "static/js/787.8e9dcca3.chunk.js": "/harshini/static/js/787.8e9dcca3.chunk.js",
+    "index.html": "/harshini/index.html",
+    "main.3c9d3d92.css.map": "/harshini/static/css/main.3c9d3d92.css.map",
+    "main.76a54857.js.map": "/harshini/static/js/main.76a54857.js.map",
+    "787.8e9dcca3.chunk.js.map": "/harshini/static/js/787.8e9dcca3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3c9d3d92.css",
+    "static/js/main.76a54857.js"
+  ]
+}
