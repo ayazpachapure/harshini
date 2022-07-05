@@ -1,15 +1,16 @@
 {
   "files": {
-    "main.css": "/harshini/static/css/main.3c9d3d92.css",
-    "main.js": "/harshini/static/js/main.ee3a5f6f.js",
+    "main.css": "/harshini/static/css/main.c1d791ca.css",
+    "main.js": "/harshini/static/js/main.29dce846.js",
     "static/js/787.8e9dcca3.chunk.js": "/harshini/static/js/787.8e9dcca3.chunk.js",
+    "static/media/Logo.jpg": "/harshini/static/media/Logo.473ceaf900f6d579a625.jpg",
     "index.html": "/harshini/index.html",
-    "main.3c9d3d92.css.map": "/harshini/static/css/main.3c9d3d92.css.map",
-    "main.ee3a5f6f.js.map": "/harshini/static/js/main.ee3a5f6f.js.map",
+    "main.c1d791ca.css.map": "/harshini/static/css/main.c1d791ca.css.map",
+    "main.29dce846.js.map": "/harshini/static/js/main.29dce846.js.map",
     "787.8e9dcca3.chunk.js.map": "/harshini/static/js/787.8e9dcca3.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3c9d3d92.css",
-    "static/js/main.ee3a5f6f.js"
+    "static/css/main.c1d791ca.css",
+    "static/js/main.29dce846.js"
   ]
 }
