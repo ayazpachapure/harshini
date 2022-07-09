@@ -1,16 +1,19 @@
 {
   "files": {
-    "main.css": "/harshini/static/css/main.e9fab53d.css",
-    "main.js": "/harshini/static/js/main.29dce846.js",
+    "main.css": "/harshini/static/css/main.dc127ea8.css",
+    "main.js": "/harshini/static/js/main.f99b6961.js",
     "static/js/787.8e9dcca3.chunk.js": "/harshini/static/js/787.8e9dcca3.chunk.js",
     "static/media/Logo.jpg": "/harshini/static/media/Logo.473ceaf900f6d579a625.jpg",
+    "static/media/rose1.jpg": "/harshini/static/media/rose1.3c310ba558deea3f5c8d.jpg",
+    "static/media/rose3.png": "/harshini/static/media/rose3.409f709714141df3afa9.png",
+    "static/media/rose4.jpg": "/harshini/static/media/rose4.a1f66db1a2bef8054093.jpg",
     "index.html": "/harshini/index.html",
-    "main.e9fab53d.css.map": "/harshini/static/css/main.e9fab53d.css.map",
-    "main.29dce846.js.map": "/harshini/static/js/main.29dce846.js.map",
+    "main.dc127ea8.css.map": "/harshini/static/css/main.dc127ea8.css.map",
+    "main.f99b6961.js.map": "/harshini/static/js/main.f99b6961.js.map",
     "787.8e9dcca3.chunk.js.map": "/harshini/static/js/787.8e9dcca3.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e9fab53d.css",
-    "static/js/main.29dce846.js"
+    "static/css/main.dc127ea8.css",
+    "static/js/main.f99b6961.js"
   ]
 }
