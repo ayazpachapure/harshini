@@ -22,7 +22,7 @@ function Nav(){
 
 
 
-      <Link to="/" style={{fontSize:"35px", lineHeight:"25px", fontFamily:"font-family: 'Cormorant Garamond', serif;",color:"black",textDecoration:"none",textAlign:"center",position:"absolute",bottom:"2px",marginLeft:"80px",bottom:"11px"}}>HARSHINI</Link>
+      <Link to="/harshini" style={{fontSize:"35px", lineHeight:"25px", fontFamily:"font-family: 'Cormorant Garamond', serif;",color:"black",textDecoration:"none",textAlign:"center",position:"absolute",bottom:"2px",marginLeft:"80px",bottom:"11px"}}>HARSHINI</Link>
       </div>
 
       <div className="nav">
