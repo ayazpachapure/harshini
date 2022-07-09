@@ -19,6 +19,9 @@
    font-family: 'Open Sans', sans-serif;
    font-size: 15px;
    opacity: 1.0;
+   border-right:1px solid;
+   border-right-color:black,
+    
    
    
    
@@ -28,10 +31,12 @@
 
 .text:hover{
    opacity: 0.5;
+   color: white;
+   background-color: rgb(188, 30, 30);
    
-   /* border-radius: 30px; */
+   border-radius: 30px;
    /* background-color: pink; */
-   /* border-right-color: pink; */
+   border-right-color: rgb(188, 30, 30);
 
 
 
