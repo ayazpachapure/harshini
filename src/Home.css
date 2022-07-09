@@ -1,0 +1,22 @@
+.div-class{
+   background-color: #EDEBE7;
+   height: 500px;
+   width: 1200px;
+   position: absolute; 
+   left: 44px;
+   margin-top: 12px;
+   box-shadow: 0 10px 20px 0 rgb(65, 64, 64);
+   background-position: center;
+   background-repeat: no-repeat;
+   /* background-size: cover; */
+}
+
+.arrows{
+   margin-left: 1100px;
+   margin-top: 450px;
+}
+
+.arrowsright{
+   margin-left: 1150px;
+   
+}
