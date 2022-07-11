@@ -82,11 +82,31 @@
    color:black;
  }
 
- .fa-facebook {
+ .fa-facebook::before {
    background: white;
    color:#be9e44;
-   border: 2px solid ;
+   border: 3px solid ;
+   border-color:#fafafa;
+   animation:4s linear spin,1s linear infinite alternate abbrevation;
    
+ }
+
+ @keyframes spin{
+   from {
+      transform: rotate(0deg);
+   }
+   to{
+      transform: rotate(360deg);
+   }
+ }
+
+ @keyframes abbrevation{
+   from{
+      box-shadow:0 0 0 0 #CB2918, 0 0 0 0 #56719A;
+   }
+   to{
+      box-shadow: 0.25rem 0.125rem 0 0 #CB2918, -0.25rem -0.125rem 0 0 #56719A ;
+   }
  }
 
  img {
