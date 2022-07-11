@@ -42,7 +42,9 @@ function Nav(){
       style={{padding:"0 22px 0 25px", lineHeight:2,marginRight: "17px",  borderRight:"1px solid",
       borderRightColor:"black"}}> NewsLetter </Link>
       <div style={{fontSize:"30px"}}>
-      <a href="#" className="fa fa-facebook" style={{borderColor:"black"}}></a>
+      
+         <a href="#" className="fa fa-facebook"></a>
+      
       <a href="#" className="fa fa-twitter"></a>
       <a href="#" class="fa fa-instagram"></a>
       </div>
